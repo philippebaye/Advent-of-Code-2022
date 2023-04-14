@@ -33,5 +33,6 @@ pyhton3 day1_part1.py
     <tr><th>Exemple</th><th>Puzzle</th><th>Exemple</th><th>Puzzle</th></tr>
  </thead>
     <tr><td><a href="day1">day1</a></td><td>24000</td><td>74394</td><td>45000</td><td>212836</td></tr>
+    <tr><td><a href="day2">day2</a></td><td>15</td><td>14069</td><td>12</td><td>12411</td></tr>
  <tbody>
 </table>
