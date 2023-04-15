@@ -36,5 +36,6 @@ pyhton3 day1_part1.py
     <tr><td><a href="day2">day2</a></td><td>15</td><td>14069</td><td>12</td><td>12411</td></tr>
     <tr><td><a href="day3">day3</a></td><td>157</td><td>7889</td><td>70</td><td>2825</td></tr>
     <tr><td><a href="day4">day4</a></td><td>2</td><td>547</td><td>4</td><td>843</td></tr>
+    <tr><td><a href="day5">day5</a></td><td>CMZ</td><td>CVCWCRTVQ</td><td>MCD</td><td>CNSCZWLVT</td></tr>
  <tbody>
 </table>
